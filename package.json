@@ -1,5 +1,5 @@
 {
-  "name": "framework7-redux",
+  "name": "framework7-umi",
   "version": "3.0.3",
   "description": "",
   "main": "./dist/index.js",
@@ -9,20 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bencompton/framework7-redux.git"
+    "url": "https://github.com/ccckblaze/framework7-umi.git"
   },
   "keywords": [
     "framework7",
     "react",
-    "redux",
+    "umi",
     "typescript"
   ],
-  "author": "Ben Compton",
+  "author": "ccckblaze",
   "license": "APACHE 2.0",
   "bugs": {
-    "url": "https://github.com/bencompton/framework7-redux/issues"
+    "url": "https://github.com/ccckblaze/framework7-umi/issues"
   },
-  "homepage": "https://github.com/bencompton/framework7-redux#readme",
+  "homepage": "https://github.com/ccckblaze/framework7-umi#readme",
   "devDependencies": {
     "gulp": "3.9.1",
     "gulp-clean": "^0.3.2",
@@ -33,6 +33,6 @@
     "typescript": "2.4.1"
   },
   "dependencies": {
-    "redux": "3.6.0"
+    "umi": "^2.6.17"
   }
 }
